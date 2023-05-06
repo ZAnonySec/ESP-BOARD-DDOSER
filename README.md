@@ -8,4 +8,4 @@ First connect your board to your pc/laptop then go to arduino.ide sketch then i 
 
 
 
-![IMG_0534](https://user-images.githubusercontent.com/93839066/236647295-10297f7b-116c-4a9d-b97d-09621ceff892.JPG)
+![InkedIMG_0533](https://user-images.githubusercontent.com/93839066/236647326-7e1b59b8-ad30-4b63-aa15-d1be52713975.jpg)
