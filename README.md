@@ -1,5 +1,5 @@
 # ESP-BOARD-DDOSER
-ITS AND ESP BOARD DDOSER ITS ESP-12S DDOSER   MADE BY Zer0Sec and Byenveni
+ITS AND ESP BOARD DDOSER ITS ESP-12S DDOSER   MADE BY Zer0Sec
 
 First connect your board to your pc/laptop then go to arduino.ide sketch then i have my code on the other file go there and copy it  ALSO CHANGE THE IP IN THE CODE FOR THE TARGET THE MORE BOARDS YOU HAVE THE MORE POWERFULL IT WILL BE education purpose im not responsible for your actions!
 
